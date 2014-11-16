@@ -85,7 +85,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/nevisp/proprietary/lib/libcapi2.so:system/lib/libcapi2.so \
     vendor/samsung/nevisp/proprietary/lib/libcate_rpc.so:system/lib/libcate_rpc.so \
     vendor/samsung/nevisp/proprietary/lib/libFraunhoferAAC.so:system/lib/libFraunhoferAAC.so \
-    vendor/samsung/nevisp/proprietary/lib/libFraunhoferAAC.so:system/lib/libFraunhoferAAC.so \
     vendor/samsung/nevisp/proprietary/lib/libhdcp2.so:system/lib/libhdcp2.so \
     vendor/samsung/nevisp/proprietary/lib/libImmVibeJ.so:system/lib/libImmVibeJ.so \
     vendor/samsung/nevisp/proprietary/lib/libISP.so:system/lib/libISP.so \
