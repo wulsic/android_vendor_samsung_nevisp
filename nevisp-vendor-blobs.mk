@@ -85,11 +85,13 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/nevisp/proprietary/lib/libcapi2.so:system/lib/libcapi2.so \
     vendor/samsung/nevisp/proprietary/lib/libcate_rpc.so:system/lib/libcate_rpc.so \
     vendor/samsung/nevisp/proprietary/lib/libFraunhoferAAC.so:system/lib/libFraunhoferAAC.so \
+    vendor/samsung/nevisp/proprietary/lib/libFraunhoferAAC.so:system/lib/libFraunhoferAAC.so \
     vendor/samsung/nevisp/proprietary/lib/libhdcp2.so:system/lib/libhdcp2.so \
     vendor/samsung/nevisp/proprietary/lib/libImmVibeJ.so:system/lib/libImmVibeJ.so \
     vendor/samsung/nevisp/proprietary/lib/libISP.so:system/lib/libISP.so \
     vendor/samsung/nevisp/proprietary/lib/libisp2.so:system/lib/libisp2.so \
     vendor/samsung/nevisp/proprietary/lib/liblvvefs.so:system/lib/liblvvefs.so \
+    vendor/samsung/nevisp/proprietary/lib/libomission_avoidance.so:system/lib/libomission_avoidance.so \
     vendor/samsung/nevisp/proprietary/lib/libOMX.brcm.audio.aac.decoder.so:system/lib/libOMX.brcm.audio.aac.decoder.so \
     vendor/samsung/nevisp/proprietary/lib/libOMX.brcm.audio.aac.encoder.so:system/lib/libOMX.brcm.audio.aac.encoder.so \
     vendor/samsung/nevisp/proprietary/lib/libOMX.brcm.audio.amrnb.decoder.so:system/lib/libOMX.brcm.audio.amrnb.decoder.so \
@@ -101,9 +103,11 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/nevisp/proprietary/lib/libril.so:system/lib/libril.so \
     vendor/samsung/nevisp/proprietary/lib/librpc.so:system/lib/librpc.so \
     vendor/samsung/nevisp/proprietary/lib/libsamsungRecord.so:system/lib/libsamsungRecord.so \
+    vendor/samsung/nevisp/proprietary/lib/lib_SamsungRec_V01006.so:system/lib/lib_SamsungRec_V01006.so \
     vendor/samsung/nevisp/proprietary/lib/libsamsungSoundbooster.so:system/lib/libsamsungSoundbooster.so \
     vendor/samsung/nevisp/proprietary/lib/libseckeyprov.so:system/lib/libseckeyprov.so \
     vendor/samsung/nevisp/proprietary/lib/libsecnativefeature.so:system/lib/libsecnativefeature.so \
+    vendor/samsung/nevisp/proprietary/lib/libsecril-client.so:system/lib/libsecril-client.so \
     vendor/samsung/nevisp/proprietary/lib/libsoc.so:system/lib/libsoc.so \
     vendor/samsung/nevisp/proprietary/lib/libsoundalive.so:system/lib/libsoundalive.so \
     vendor/samsung/nevisp/proprietary/lib/libSoundAlive_VSP_ver312a.so:system/lib/libSoundAlive_VSP_ver312a.so \
