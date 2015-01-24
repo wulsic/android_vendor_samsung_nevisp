@@ -1,4 +1,6 @@
-android_vendor_samsung_nevispcm11
+android_vendor_samsung_nevisp
 =================================
 
-Galaxy Fame Cm11 Vendor Folder
+Galaxy Fame Vendor Folder
+
+This is a unified vendor folder meant for all android versions.
