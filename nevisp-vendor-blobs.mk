@@ -39,7 +39,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/nevisp/proprietary/etc/DiamondVoice.txt:system/etc/DiamondVoice.txt \
     vendor/samsung/nevisp/proprietary/etc/gps/glconfig.xml:system/etc/gps/glconfig.xml \
     vendor/samsung/nevisp/proprietary/etc/gps.conf:system/etc/gps.conf \
-    vendor/samsung/nevisp/proprietary/etc/media_codecs.xml:system/etc/media_codecs.xml \
     vendor/samsung/nevisp/proprietary/etc/srm.bin:system/etc/srm.bin \
     vendor/samsung/nevisp/proprietary/etc/Volume.db:system/etc/Volume.db \
     vendor/samsung/nevisp/proprietary/etc/wifi/bcmdhd_apsta.bin_b2:system/etc/wifi/bcmdhd_apsta.bin_b2 \
